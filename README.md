@@ -15,3 +15,5 @@
 > Part 0 of the course material goes through the content and conduct of the course in more detail. Make sure to read the material and instructions thoroughly.
 
 Course Website: https://fullstackopen.com/en
+
+### [Part 0 - Fundamentals of Web apps](./part0)
