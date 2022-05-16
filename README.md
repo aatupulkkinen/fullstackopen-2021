@@ -17,3 +17,5 @@
 Course Website: https://fullstackopen.com/en
 
 ### [Part 0 - Fundamentals of Web apps](./part-0)
+- General Info
+- Fundamentals of Web apps
