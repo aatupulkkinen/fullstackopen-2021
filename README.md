@@ -20,7 +20,7 @@ Course Website: https://fullstackopen.com/en
 - General Info
 - Fundamentals of Web apps
 
-### [Part 1 - Introduction to React] (./part-1)
+### [Part 1 - Introduction to React](./part-1)
 - Introduction to React
 - JavaScript
 - Component State, event handlers
